@@ -1,0 +1,12 @@
+
+prefix=/opt/oracle/instantclient_12_2
+libdir=${prefix}
+includedir=${prefix}/sdk/include/
+build=client64
+
+Name: OCI
+Description: Oracle database engine
+Version: 12.2
+Libs: -L${libdir} -lclntsh
+Libs.private: 
+Cflags: -I${includedir}

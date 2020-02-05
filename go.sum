@@ -1,0 +1,6 @@
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e h1:vcxGaoTs7kV8m5Np9uUNQin4BrLOthgV7252N8V+FwY=
+golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
+gopkg.in/rana/ora.v4 v4.1.15 h1:2Htj9lqo8iF48vkb/oTDd2a/vlxTnSIUsRaIh0LpZZ8=
+gopkg.in/rana/ora.v4 v4.1.15/go.mod h1:xT5RjI4P4KAOzMyDWeyleSX0ebU2+QXiQaoarWWy8Tw=
